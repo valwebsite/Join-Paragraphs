@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+input {
+    text-align: center;
+}
+button {
+    object-position: right;
+    height: 30px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+    color: f07167;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    border: 5px solid #f07167;
+    text-transform: uppercase;
+    cursor: pointer;
+    letter-spacing: 3px;
+    border-radius: 100px;
+    margin-left: 10px;
+}
+button:hover {
+    box-shadow: 0 5px 50px 0 #f4978e inset, 0 5px 50px 0 #f4978e;
+}
+ 
